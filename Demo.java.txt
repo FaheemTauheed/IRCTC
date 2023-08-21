@@ -4,4 +4,9 @@ public class Demo{
 
              System.out.println("Hi...!");
       }
+           // For CR-122
+          public void doProcess(){
+              // Logic
+           }
+
 }
